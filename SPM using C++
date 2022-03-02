@@ -40,7 +40,7 @@ void displayPayslip();
 
 class employee
 {
-public:
+public
 	char name[20];
 	int code;
 	char designation[20];
