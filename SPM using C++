@@ -20,7 +20,7 @@ void intro();
 void login();
 void menu();
 void insert();
-void edit();
+
 void editmenu();
 void editname(int);
 void editcode(int);
